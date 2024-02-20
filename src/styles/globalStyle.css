@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+li{
+    list-style-type: circle;
+}
+
+
+
+.d-flex-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.d-col{
+    flex-direction: column;
+}
+
+.lbl-input{
+    margin: 10px;
+}
+.lbl-input label{
+    width: 40%;
+}
+.lbl-input input{
+    margin: 0 10px;
+    padding: 10px 15px;
+    border: solid black 2px;
+    border-radius: 10px;
+}

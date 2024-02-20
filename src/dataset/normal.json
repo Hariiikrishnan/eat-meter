@@ -1,0 +1,36 @@
+{
+    "category": "Normal Weight",
+    "bmiRange": "18.5 - 24.9",
+    "dietPlan": {
+      "recommendations": [
+        "Maintain a balanced diet with a mix of macronutrients.",
+        "Focus on whole, unprocessed foods for optimal nutrition.",
+        "Include a variety of fruits and vegetables in different colors.",
+        "Incorporate lean protein sources like poultry, fish, beans, and tofu.",
+        "Choose whole grains such as brown rice, quinoa, and whole wheat bread.",
+        "Include healthy fats from sources like avocados, nuts, and olive oil.",
+        "Stay hydrated with water and limit sugary beverages.",
+        "Practice portion control and mindful eating.",
+        "Engage in regular physical activity for overall health."
+      ],
+      "sampleMealPlan": [
+        {
+          "meal": "Breakfast",
+          "foods": ["Whole grain cereal with low-fat milk and sliced strawberries", "A boiled egg"]
+        },
+        {
+          "meal": "Lunch",
+          "foods": ["Grilled chicken or tofu salad with mixed greens and a variety of veggies", "Quinoa or brown rice"]
+        },
+        {
+          "meal": "Dinner",
+          "foods": ["Baked fish with roasted sweet potatoes and steamed broccoli", "Whole grain pasta with tomato sauce"]
+        },
+        {
+          "meal": "Snacks",
+          "foods": ["Greek yogurt with a handful of almonds", "Fresh fruit like apple slices"]
+        }
+      ]
+    }
+  }
+  

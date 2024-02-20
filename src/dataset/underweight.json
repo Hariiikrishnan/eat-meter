@@ -1,0 +1,36 @@
+{
+    "category": "Underweight",
+    "bmiRange": "Less than 18.5",
+    "dietPlan": {
+      "recommendations": [
+        "Increase calorie intake with nutrient-dense foods.",
+        "Include a variety of whole grains, such as brown rice, quinoa, and oats.",
+        "Incorporate healthy fats from sources like avocados, nuts, and olive oil.",
+        "Focus on lean protein sources like chicken, turkey, fish, eggs, and legumes.",
+        "Include dairy or dairy alternatives for calcium and vitamin D.",
+        "Eat frequent, smaller meals throughout the day to boost calorie consumption.",
+        "Snack on nuts, seeds, and dried fruits for extra calories and nutrients.",
+        "Stay hydrated with water, and consider adding nutrient-rich smoothies or shakes.",
+        "Consult with a nutritionist for a personalized plan based on your dietary preferences and health goals."
+      ],
+      "sampleMealPlan": [
+        {
+          "meal": "Breakfast",
+          "foods": ["Oatmeal with sliced bananas and a tablespoon of almond butter", "Greek yogurt with berries"]
+        },
+        {
+          "meal": "Lunch",
+          "foods": ["Quinoa salad with mixed vegetables and grilled chicken", "A serving of mixed nuts"]
+        },
+        {
+          "meal": "Dinner",
+          "foods": ["Salmon with sweet potato and steamed broccoli", "Whole grain roll with olive oil for dipping"]
+        },
+        {
+          "meal": "Snacks",
+          "foods": ["Hummus with carrot and cucumber sticks", "Trail mix with dried fruits and seeds"]
+        }
+      ]
+    }
+  }
+  

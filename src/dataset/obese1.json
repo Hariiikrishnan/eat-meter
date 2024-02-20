@@ -1,0 +1,34 @@
+{
+    "category": "Obese",
+    "bmiRange": "30 or greater",
+    "dietPlan": {
+      "recommendations": [
+        "Adopt a calorie-controlled diet to promote weight loss.",
+        "Emphasize whole, nutrient-dense foods and limit processed foods.",
+        "Include a mix of lean protein, whole grains, fruits, and vegetables.",
+        "Monitor portion sizes and practice mindful eating.",
+        "Incorporate regular physical activity into your routine.",
+        "Stay hydrated with water and limit sugary beverages.",
+        "Consult with a healthcare professional or dietitian for personalized advice."
+      ],
+      "sampleMealPlan": [
+        {
+          "meal": "Breakfast",
+          "foods": ["Spinach and feta omelet", "Whole grain toast with avocado"]
+        },
+        {
+          "meal": "Lunch",
+          "foods": ["Grilled chicken salad with mixed greens and vinaigrette dressing", "Quinoa or brown rice"]
+        },
+        {
+          "meal": "Dinner",
+          "foods": ["Baked salmon with roasted sweet potatoes and steamed broccoli", "Whole wheat dinner roll"]
+        },
+        {
+          "meal": "Snacks",
+          "foods": ["Greek yogurt with berries", "Vegetable sticks with hummus"]
+        }
+      ]
+    }
+  }
+  
