@@ -12,7 +12,9 @@ function HomeScreen(){
     <div className="home">
         <div className="header d-flex-center">
             <img src="images/eat_logo.jpg" />
-            <h1>Eatmeter</h1>
+            <h1 onClick={()=>{
+                navigate("/sugar");
+            }}>Eatmeter</h1>
         </div>
 
         <div className="body">    
