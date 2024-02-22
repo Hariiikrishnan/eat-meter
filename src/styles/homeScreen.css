@@ -1,0 +1,101 @@
+
+.home{
+    padding: 30px 0;
+    overflow: hidden;
+    /* height: 100vh; */
+}
+
+.home .body{
+    display: flex;
+    margin-top: 20px ;
+    position: relative;
+   
+}
+.home .body .text{
+    /* background-color: yellow; */
+    /* background: linear-gradient(90deg, #FFAF0A 0%, #9ee08F 100%); */
+    background: rgb(254,224,65);
+    background: linear-gradient(43deg, rgba(254,224,65,1) 0%, rgba(158,224,143,1) 80%);
+    /* height: 300px; */
+    width: 50%;
+    align-items: start;
+    padding: 25px 40px ;
+    border-radius: 0 300px 300px 0;
+    margin: 40px 0 10px 0;
+}
+.home .body .text h5{
+    font-size: 2rem;
+}
+.home .body .text h6{
+    font-size: 1.5rem;
+    color: rgb(53, 53, 53);
+}
+.home .body .text h1{
+    font-size: 4.5rem;
+    /* margin: 2px 0; */
+    font-weight: bolder;
+    font-family: "Paytone One", sans-serif;
+    font-weight: 200;
+}
+
+.home .body img.banner{
+    height: 400px;
+    position: absolute;
+    left: 40%;
+    top: 0;
+    margin: 40px 0;
+}
+.home .body .outer-circle{
+    width: 650px;
+    position: fixed;
+    background: #F3E5CA;
+    background: linear-gradient(180deg, #F3E5CA 0%, #F8F4C5 100%);
+    height: 650px;
+    right: -10%;
+    top: 5%;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index:-1;
+}
+.home .body .inner-circle{
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    position: relative;
+    background: white;
+    height: 400px;
+    right: 0%;
+    top: 0%;
+    border-radius: 50%;
+    background-image: url("./images/jarvis.svg");
+}
+/* .home .body .outer-circle:hover{
+    
+    background-image: url("./images/iron_man.svg");
+} */
+
+.home .bottom {
+    padding: 0 70px;
+}
+.home .bottom p{
+    font-size:1.5rem;
+    color: rgb(53, 53, 53);
+}
+.home .bottom button{
+    width: 300px;
+    padding: 10px 0;
+    background: transparent;
+    font-size: 18px;
+    border: solid rgba(158,224,143,1) 3px ;
+    transition: all 0.2s ease;
+}
+.home .bottom button:hover{
+    /* border: solid transparent 2px; */
+    border: solid rgba(158,224,143,1) 3px ;
+    background:linear-gradient(43deg, rgba(254,224,65,1) 0%, rgba(158,224,143,1) 80%) ;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}

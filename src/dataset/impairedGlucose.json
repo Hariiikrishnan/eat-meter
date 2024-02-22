@@ -1,0 +1,282 @@
+{
+    "mealPlan": [
+      {
+        "day": "Monday",
+        "meals": [
+          {
+            "time": "Breakfast (8:00-8:30AM)",
+            "food": [
+              "Oatmeal with nuts and berries",
+              "1/2 cup low-fat milk"
+            ]
+          },
+          {
+            "time": "Mid-Meal (11:00-11:30AM)",
+            "food": [
+              "Greek yogurt with sliced almonds and chia seeds"
+            ]
+          },
+          {
+            "time": "Lunch (2:00-2:30PM)",
+            "food": [
+              "Quinoa salad with mixed vegetables",
+              "Grilled chicken breast (100g)"
+            ]
+          },
+          {
+            "time": "Evening (4:00-4:30PM)",
+            "food": [
+              "Green tea",
+              "Carrot and cucumber sticks with hummus"
+            ]
+          },
+          {
+            "time": "Dinner (8:00-8:30PM)",
+            "food": [
+              "Baked salmon",
+              "Steamed broccoli",
+              "Quinoa"
+            ]
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "meals": [
+          {
+            "time": "Breakfast (8:00-8:30AM)",
+            "food": [
+              "Whole grain toast with avocado",
+              "Poached eggs"
+            ]
+          },
+          {
+            "time": "Mid-Meal (11:00-11:30AM)",
+            "food": [
+              "Cottage cheese with cherry tomatoes"
+            ]
+          },
+          {
+            "time": "Lunch (2:00-2:30PM)",
+            "food": [
+              "Brown rice",
+              "Stir-fried tofu with mixed vegetables"
+            ]
+          },
+          {
+            "time": "Evening (4:00-4:30PM)",
+            "food": [
+              "Herbal tea",
+              "Handful of mixed nuts"
+            ]
+          },
+          {
+            "time": "Dinner (8:00-8:30PM)",
+            "food": [
+              "Grilled chicken salad",
+              "Quinoa"
+            ]
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "meals": [
+          {
+            "time": "Breakfast (8:00-8:30AM)",
+            "food": [
+              "Methi Parata 2",
+              "1 tbs green chutney."
+            ]
+          },
+          {
+            "time": "Mid-Meal (11:00-11:30AM)",
+            "food": [
+              "1 Portion fruit (Avoid high energy fruits. Eg: Banana, Mango, Chikku.)"
+            ]
+          },
+          {
+            "time": "Lunch (2:00-2:30PM)",
+            "food": [
+              "1 cup rice",
+              "Chicken curry (150 gm chicken)",
+              "1 cup cucumber salad"
+            ]
+          },
+          {
+            "time": "Evening (4:00-4:30PM)",
+            "food": [
+              "1 Cup light tea",
+              "Brown rice flakes poha 1 cup"
+            ]
+          },
+          {
+            "time": "Dinner (8:00-8:30PM)",
+            "food": [
+              "Wheat dosa 3",
+              "1/2 cup Bitter guard subji."
+            ]
+          }
+        ]
+      },
+      {
+        "day": "Thurday",
+        "meals": [
+          {
+            "time": "Breakfast (8:00-8:30AM)",
+            "food": [
+              "Oatmeal with nuts and berries",
+              "1/2 cup low-fat milk"
+            ]
+          },
+          {
+            "time": "Mid-Meal (11:00-11:30AM)",
+            "food": [
+              "Greek yogurt with sliced almonds and chia seeds"
+            ]
+          },
+          {
+            "time": "Lunch (2:00-2:30PM)",
+            "food": [
+              "Quinoa salad with mixed vegetables",
+              "Grilled chicken breast (100g)"
+            ]
+          },
+          {
+            "time": "Evening (4:00-4:30PM)",
+            "food": [
+              "Green tea",
+              "Carrot and cucumber sticks with hummus"
+            ]
+          },
+          {
+            "time": "Dinner (8:00-8:30PM)",
+            "food": [
+              "Baked salmon",
+              "Steamed broccoli",
+              "Quinoa"
+            ]
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "meals": [
+          {
+            "time": "Breakfast (8:00-8:30AM)",
+            "food": [
+              "Whole grain toast with avocado",
+              "Poached eggs"
+            ]
+          },
+          {
+            "time": "Mid-Meal (11:00-11:30AM)",
+            "food": [
+              "Cottage cheese with cherry tomatoes"
+            ]
+          },
+          {
+            "time": "Lunch (2:00-2:30PM)",
+            "food": [
+              "Brown rice",
+              "Stir-fried tofu with mixed vegetables"
+            ]
+          },
+          {
+            "time": "Evening (4:00-4:30PM)",
+            "food": [
+              "Herbal tea",
+              "Handful of mixed nuts"
+            ]
+          },
+          {
+            "time": "Dinner (8:00-8:30PM)",
+            "food": [
+              "Grilled chicken salad",
+              "Quinoa"
+            ]
+          }
+        ]
+      },
+      {
+        "day": "Saturday",
+        "meals": [
+          {
+            "time": "Breakfast (8:00-8:30AM)",
+            "food": [
+              "Methi Parata 2",
+              "1 tbs green chutney."
+            ]
+          },
+          {
+            "time": "Mid-Meal (11:00-11:30AM)",
+            "food": [
+              "1 Portion fruit (Avoid high energy fruits. Eg: Banana, Mango, Chikku.)"
+            ]
+          },
+          {
+            "time": "Lunch (2:00-2:30PM)",
+            "food": [
+              "1 cup rice",
+              "Chicken curry (150 gm chicken)",
+              "1 cup cucumber salad"
+            ]
+          },
+          {
+            "time": "Evening (4:00-4:30PM)",
+            "food": [
+              "1 Cup light tea",
+              "Brown rice flakes poha 1 cup"
+            ]
+          },
+          {
+            "time": "Dinner (8:00-8:30PM)",
+            "food": [
+              "Wheat dosa 3",
+              "1/2 cup Bitter guard subji."
+            ]
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "meals": [
+          {
+            "time": "Breakfast (8:00-8:30AM)",
+            "food": [
+              "Methi Parata 2",
+              "1 tbs green chutney."
+            ]
+          },
+          {
+            "time": "Mid-Meal (11:00-11:30AM)",
+            "food": [
+              "1 Portion fruit (Avoid high energy fruits. Eg: Banana, Mango, Chikku.)"
+            ]
+          },
+          {
+            "time": "Lunch (2:00-2:30PM)",
+            "food": [
+              "1 cup rice",
+              "Chicken curry (150 gm chicken)",
+              "1 cup cucumber salad"
+            ]
+          },
+          {
+            "time": "Evening (4:00-4:30PM)",
+            "food": [
+              "1 Cup light tea",
+              "Brown rice flakes poha 1 cup"
+            ]
+          },
+          {
+            "time": "Dinner (8:00-8:30PM)",
+            "food": [
+              "Wheat dosa 3",
+              "1/2 cup Bitter guard subji."
+            ]
+          }
+        ]
+      }
+    ]
+  }

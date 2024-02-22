@@ -5,6 +5,8 @@ import { BmiData } from "./context/BmiContext.jsx";
 // import underweight from  "./dataset/underweight.json";
 // import obese1 from  "./dataset/obese1.json";
 import normal from  "./dataset/normal.json";
+import "./styles/planScreen.css";
+
 
 function NormalWeightScreen(){
 
@@ -14,13 +16,18 @@ function NormalWeightScreen(){
     const [loading,setLoading] = useState(false);
     const [planData,setPlanData] = useState();
     var data; 
- 
+    console.log(normal);
    
     return <>
-  {
-    !loading ?
-    // <p>{data.category}</p>
-    <div>
+    <div className='plans'>
+     
+     <div className="header d-flex-center">
+            <img src="images/eat_logo.jpg" />
+            <h1>Eatmeter</h1>
+        </div>
+
+    <div className='container'>
+      <div>
 
         <h1>BMI : {bmi}</h1>
         <h3>
@@ -30,7 +37,31 @@ function NormalWeightScreen(){
         Category's range : {normal.bmiRange}
         </h3>
 
-    <p>Recommendations:</p>
+   
+        <ul>
+      <div className='sampleMeals'>
+
+      <h2>Sample Meal Plan</h2>
+      {
+        normal.dietPlan.sampleMealPlan.map((one)=>{
+              return <div className=' meals'>
+                <h3>{one.meal} : </h3>
+                {/* <p>{one.foods}</p> */}
+                {
+                  one.foods.map((food)=>{
+                    return <li>{food}</li>
+                  })
+                }
+              </div>
+            })
+            
+          }
+          </div>
+        </ul>
+
+
+
+   <h2>Recommendations:</h2>
     <ul>
       {
           normal.dietPlan.recommendations.map((one)=>{
@@ -39,11 +70,11 @@ function NormalWeightScreen(){
             
         }
         </ul>
-
-        </div> 
-    : <p>Loading</p>
-         }  
-      
+</div>
+         
+  
+        </div>
+    </div>
     </>
 }
 

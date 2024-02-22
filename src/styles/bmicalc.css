@@ -1,0 +1,50 @@
+.bmi-calc{
+    padding: 30px  0;
+}
+
+.bmi-calc .container{
+    background: rgb(254,224,65);
+    background: linear-gradient(43deg, rgba(254,224,65,1) 0%, rgba(158,224,143,1) 80%);
+    height: 85vh;
+}
+
+.bmi-calc .container input{
+    padding: 10px 40px;
+    border: solid black 2px;
+    border-radius: 10px;
+    font-size: 20px;
+    background-color: rgba(255, 255, 255, 0.918);
+}
+.bmi-calc .container input::placeholder{
+    color: black;
+}
+.lbl-input label{
+    font-size: 20px;
+}
+.lbl-input{
+    margin: 10px;
+}
+.lbl-input label{
+    width: 40%;
+}
+.lbl-input input{
+    margin: 0 10px;
+    /* padding: 10px 15px; */
+}
+
+.bmi-calc .container button{
+    padding: 10px 15px;
+    width: 250px;
+    font-size: 20px;
+    background-color: white;
+    border: solid rgba(158,224,143,1) 2px;
+    margin: 20px 0;
+    transition: all 0.1s ease-in;
+    /* color: ; */
+}
+.bmi-calc .container button:hover{
+    background-color: transparent;
+    border: solid white 2px;
+    /* color: white; */
+    cursor: pointer;
+}

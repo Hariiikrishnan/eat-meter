@@ -1,0 +1,271 @@
+{
+    "mealPlan": [
+      {
+        "day": "Monday",
+        "meals": [
+          {
+            "time": "Breakfast (8:00-8:30AM)",
+            "food": [
+              "Vegetable Omelette (2 eggs) with spinach and tomatoes",
+              "Whole grain toast (1 slice)"
+            ]
+          },
+          {
+            "time": "Mid-Meal (11:00-11:30AM)",
+            "food": [
+              "Greek Yogurt (1 cup) with a handful of berries"
+            ]
+          },
+          {
+            "time": "Lunch (2:00-2:30PM)",
+            "food": [
+              "Quinoa Salad with Grilled Chicken (150g) and mixed vegetables",
+              "Cucumber and Tomato slices with olive oil dressing"
+            ]
+          },
+          {
+            "time": "Afternoon Snack (4:00-4:30PM)",
+            "food": [
+              "Almonds (handful) with Green Tea"
+            ]
+          },
+          {
+            "time": "Dinner (8:00-8:30PM)",
+            "food": [
+              "Grilled Fish (150g) with Steamed Broccoli and Asparagus",
+              "Quinoa or Brown Rice (1/2 cup)"
+            ]
+          }
+        ]
+      },
+      
+      {
+        "day": "Tuesday",
+       "meals": [
+          {
+            "time": "Breakfast (8:00-8:30AM)",
+            "food": [
+              "Vegetable Omelette (2 eggs) with spinach and tomatoes",
+              "Whole grain toast (1 slice)"
+            ]
+          },
+          {
+            "time": "Mid-Meal (11:00-11:30AM)",
+            "food": [
+              "Greek Yogurt (1 cup) with a handful of berries"
+            ]
+          },
+          {
+            "time": "Lunch (2:00-2:30PM)",
+            "food": [
+              "Quinoa Salad with Grilled Chicken (150g) and mixed vegetables",
+              "Cucumber and Tomato slices with olive oil dressing"
+            ]
+          },
+          {
+            "time": "Afternoon Snack (4:00-4:30PM)",
+            "food": [
+              "Almonds (handful) with Green Tea"
+            ]
+          },
+          {
+            "time": "Dinner (8:00-8:30PM)",
+            "food": [
+              "Grilled Fish (150g) with Steamed Broccoli and Asparagus",
+              "Quinoa or Brown Rice (1/2 cup)"
+            ]
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "meals": [
+          {
+            "time": "Breakfast (8:00-8:30AM)",
+            "food": [
+              "Vegetable Omelette (2 eggs) with spinach and tomatoes",
+              "Whole grain toast (1 slice)"
+            ]
+          },
+          {
+            "time": "Mid-Meal (11:00-11:30AM)",
+            "food": [
+              "Greek Yogurt (1 cup) with a handful of berries"
+            ]
+          },
+          {
+            "time": "Lunch (2:00-2:30PM)",
+            "food": [
+              "Quinoa Salad with Grilled Chicken (150g) and mixed vegetables",
+              "Cucumber and Tomato slices with olive oil dressing"
+            ]
+          },
+          {
+            "time": "Afternoon Snack (4:00-4:30PM)",
+            "food": [
+              "Almonds (handful) with Green Tea"
+            ]
+          },
+          {
+            "time": "Dinner (8:00-8:30PM)",
+            "food": [
+              "Grilled Fish (150g) with Steamed Broccoli and Asparagus",
+              "Quinoa or Brown Rice (1/2 cup)"
+            ]
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "meals": [
+          {
+            "time": "Breakfast (8:00-8:30AM)",
+            "food": [
+              "Vegetable Omelette (2 eggs) with spinach and tomatoes",
+              "Whole grain toast (1 slice)"
+            ]
+          },
+          {
+            "time": "Mid-Meal (11:00-11:30AM)",
+            "food": [
+              "Greek Yogurt (1 cup) with a handful of berries"
+            ]
+          },
+          {
+            "time": "Lunch (2:00-2:30PM)",
+            "food": [
+              "Quinoa Salad with Grilled Chicken (150g) and mixed vegetables",
+              "Cucumber and Tomato slices with olive oil dressing"
+            ]
+          },
+          {
+            "time": "Afternoon Snack (4:00-4:30PM)",
+            "food": [
+              "Almonds (handful) with Green Tea"
+            ]
+          },
+          {
+            "time": "Dinner (8:00-8:30PM)",
+            "food": [
+              "Grilled Fish (150g) with Steamed Broccoli and Asparagus",
+              "Quinoa or Brown Rice (1/2 cup)"
+            ]
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "meals": [
+          {
+            "time": "Breakfast (8:00-8:30AM)",
+            "food": [
+              "Vegetable Omelette (2 eggs) with spinach and tomatoes",
+              "Whole grain toast (1 slice)"
+            ]
+          },
+          {
+            "time": "Mid-Meal (11:00-11:30AM)",
+            "food": [
+              "Greek Yogurt (1 cup) with a handful of berries"
+            ]
+          },
+          {
+            "time": "Lunch (2:00-2:30PM)",
+            "food": [
+              "Quinoa Salad with Grilled Chicken (150g) and mixed vegetables",
+              "Cucumber and Tomato slices with olive oil dressing"
+            ]
+          },
+          {
+            "time": "Afternoon Snack (4:00-4:30PM)",
+            "food": [
+              "Almonds (handful) with Green Tea"
+            ]
+          },
+          {
+            "time": "Dinner (8:00-8:30PM)",
+            "food": [
+              "Grilled Fish (150g) with Steamed Broccoli and Asparagus",
+              "Quinoa or Brown Rice (1/2 cup)"
+            ]
+          }
+        ]
+      },
+      {
+        "day": "Saturday",
+       "meals": [
+          {
+            "time": "Breakfast (8:00-8:30AM)",
+            "food": [
+              "Vegetable Omelette (2 eggs) with spinach and tomatoes",
+              "Whole grain toast (1 slice)"
+            ]
+          },
+          {
+            "time": "Mid-Meal (11:00-11:30AM)",
+            "food": [
+              "Greek Yogurt (1 cup) with a handful of berries"
+            ]
+          },
+          {
+            "time": "Lunch (2:00-2:30PM)",
+            "food": [
+              "Quinoa Salad with Grilled Chicken (150g) and mixed vegetables",
+              "Cucumber and Tomato slices with olive oil dressing"
+            ]
+          },
+          {
+            "time": "Afternoon Snack (4:00-4:30PM)",
+            "food": [
+              "Almonds (handful) with Green Tea"
+            ]
+          },
+          {
+            "time": "Dinner (8:00-8:30PM)",
+            "food": [
+              "Grilled Fish (150g) with Steamed Broccoli and Asparagus",
+              "Quinoa or Brown Rice (1/2 cup)"
+            ]
+          }
+        ]
+      },
+      {
+        "day": "Sunday",
+        "meals": [
+          {
+            "time": "Breakfast (8:00-8:30AM)",
+            "food": [
+              "Vegetable Omelette (2 eggs) with spinach and tomatoes",
+              "Whole grain toast (1 slice)"
+            ]
+          },
+          {
+            "time": "Mid-Meal (11:00-11:30AM)",
+            "food": [
+              "Greek Yogurt (1 cup) with a handful of berries"
+            ]
+          },
+          {
+            "time": "Lunch (2:00-2:30PM)",
+            "food": [
+              "Quinoa Salad with Grilled Chicken (150g) and mixed vegetables",
+              "Cucumber and Tomato slices with olive oil dressing"
+            ]
+          },
+          {
+            "time": "Afternoon Snack (4:00-4:30PM)",
+            "food": [
+              "Almonds (handful) with Green Tea"
+            ]
+          },
+          {
+            "time": "Dinner (8:00-8:30PM)",
+            "food": [
+              "Grilled Fish (150g) with Steamed Broccoli and Asparagus",
+              "Quinoa or Brown Rice (1/2 cup)"
+            ]
+          }
+        ]
+      }
+    ]
+  }

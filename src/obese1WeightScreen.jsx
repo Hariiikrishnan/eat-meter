@@ -15,13 +15,18 @@ function Obese1WeightScreen(){
     const [planData,setPlanData] = useState();
     var data; 
     // const recommendations =  JSON.parse(underweight.dietPlan.recommendations);
-
+  console.log(obese1);
    
     return <>
-  {
-    !loading ?
-    // <p>{data.category}</p>
-    <div>
+  <div className='plans'>
+     
+     <div className="header d-flex-center">
+            <img src="images/eat_logo.jpg" />
+            <h1>Eatmeter</h1>
+        </div>
+
+    <div className='container'>
+      <div>
 
         <h1>BMI : {bmi}</h1>
         <h3>
@@ -31,7 +36,31 @@ function Obese1WeightScreen(){
         Category's range : {obese1.bmiRange}
         </h3>
 
-    <p>Recommendations:</p>
+   
+        <ul>
+      <div className='sampleMeals'>
+
+      <h2>Sample Meal Plan</h2>
+      {
+        obese1.dietPlan.sampleMealPlan.map((one)=>{
+              return <div className=' meals'>
+                <h3>{one.meal} : </h3>
+                {/* <p>{one.foods}</p> */}
+                {
+                  one.foods.map((food)=>{
+                    return <li>{food}</li>
+                  })
+                }
+              </div>
+            })
+            
+          }
+          </div>
+        </ul>
+
+
+
+   <h2>Recommendations:</h2>
     <ul>
       {
           obese1.dietPlan.recommendations.map((one)=>{
@@ -40,11 +69,11 @@ function Obese1WeightScreen(){
             
         }
         </ul>
-
-        </div> 
-    : <p>Loading</p>
-         }  
-      
+</div>
+         
+  
+        </div>
+    </div>
     </>
 }
 

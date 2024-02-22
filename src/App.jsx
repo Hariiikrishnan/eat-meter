@@ -1,7 +1,9 @@
-import React,{useContext,useState} from 'react'
+import React,{useContext,useEffect,useState} from 'react'
 import "./styles/globalStyle.css"
 import { BmiData } from "./context/BmiContext.jsx";
 import { useParams,useNavigate } from "react-router-dom";
+import ChatBot from './chatBot.jsx';
+import "./styles/bmicalc.css";
 
 
 function App() {
@@ -36,30 +38,46 @@ function App() {
     });
   }
 
+  // const axios = require('axios');
 
+  // Set your OpenAI API key
+  // const apiKey = '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';
+ 
   return (
     <>
-    <div className='d-flex-center d-col'>
+    <div className='bmi-calc'>
+
+    <div className="header d-flex-center">
+            <img src="images/eat_logo.jpg" />
+            <h1>Eatmeter</h1>
+        </div>
+
+    <div className='d-flex-center d-col container'>
+
+    <h1>Check Your plan right here!</h1>
       <div className='lbl-input'>
 
-      <label>Weight</label>
-      <input name="weight" placeholder='weight' onChange={handleChange}/>
+      <label>Enter Weight : </label>
+      <input name="weight" placeholder='Weight' autoComplete='off'  onChange={handleChange}/>
       </div>
 
       <div className='lbl-input'>
 
-      <label>Height</label>
-      <input name="height" placeholder='height' onChange={handleChange}/>
+      <label>Enter Height : </label>
+      <input name="height" placeholder='Height' autoComplete='off' onChange={handleChange}/>
       </div>
 
       <div className='lbl-input'>
 
-      <label>Age</label>
-      <input name="age" placeholder='age' onChange={handleChange}/>
+      <label>Enter Age : </label>
+      <input name="age" placeholder='Age' autoComplete='off' onChange={handleChange}/>
 
       </div>
       <button onClick={calculateBMI}>Submit</button>
     </div>
+
+    </div>
+    {/* <ChatBot/> */}
     </>
   )
 }

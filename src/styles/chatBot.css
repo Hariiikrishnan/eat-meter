@@ -1,0 +1,46 @@
+
+
+.chatBot.container{
+    position: absolute;
+    /* right: 5px; */
+    bottom: 10%;
+    background-color: rgba(255, 255, 255, 0.403);
+    padding: 20px;
+    border-radius: 10px;
+    color: #903A34;
+}
+.chatBot.container div{
+    
+}
+.chatBot.container input{
+    padding:  10px 20px;
+    border: solid #903A34 2px;
+    border-radius: 6px;
+    color: black;
+}
+.chatBot.container button{
+    /* width: 30px; */
+    padding: 10px;
+    /* height: 30px; */
+    border-radius: 50%;
+    font-size: 17px;
+    background-color: #903A34;
+    border: solid white 2px;
+    color: white;
+}
+
+.bot{
+
+}
+.bot button{
+    /* width: 50px; */
+    /* height: 50px; */
+    border-radius: 50%;
+    position: absolute;
+    /* right: 5px; */
+    bottom: 10%;
+    background-color: #903A34;
+    padding: 10px;
+    /* border-radius: 10px; */
+    /* color: #903A34; */
+}
